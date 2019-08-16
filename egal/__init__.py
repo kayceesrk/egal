@@ -1,4 +1,4 @@
-from egal.handler import *
+from handler import *
 from notebook.utils import url_path_join
 
 
